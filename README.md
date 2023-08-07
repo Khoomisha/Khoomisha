@@ -1,14 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Khoomisha Jugmohun</h1>
+<h3 align="center">A diligent Student studying Bsc IT</h3>
 
-<!--
-**Khoomisha/Khoomisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right"alt="coding"width="400"src="![image](https://github.com/Khoomisha/Khoomisha/assets/104551525/70a8b72a-9b30-4ea7-94fd-3ae82cebdf81)
+">
 
-- 🔭 I’m currently working on the khoomisha Repository to write what I learned throughout the course.
-- 🌱 I’m currently learning Coding 
-- 👯 I’m looking to collaborate on International platforms 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about Baking recipes and Books
-- 📫 How to reach me: Bring me yummy food 
-- 😄 Pronouns: Shut up
-- ⚡ Fun fact: Australia is wider than the moon xD
--->
+- 📫 How to reach me **21041527@student.curtin.edu.au**
+
+- ⚡ Fun fact **Australia is bigger than the moon**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/in/khoomisha-j-b18182286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/khoomisha-j-b18182286" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
