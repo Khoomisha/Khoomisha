@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khoomisha Jugmohun</h1>
 <h3 align="center">A diligent Student studying Bsc IT</h3>
 
-<img align="right"alt="coding"width="400"src="![image](https://github.com/Khoomisha/Khoomisha/assets/104551525/70a8b72a-9b30-4ea7-94fd-3ae82cebdf81)
+<"![image](https://github.com/Khoomisha/Khoomisha/assets/104551525/70a8b72a-9b30-4ea7-94fd-3ae82cebdf81)
 ">
 
 - 📫 How to reach me **21041527@student.curtin.edu.au**
