@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khoomisha Jugmohun</h1>
-<h3 align="center">A diligent Student studying Bsc IT</h3>
+<h3 align="center">A diligent student studying Bsc IT and an aspiring software engineer </h3>
 
 <"![image](https://github.com/Khoomisha/Khoomisha/assets/104551525/70a8b72a-9b30-4ea7-94fd-3ae82cebdf81)
 ">
